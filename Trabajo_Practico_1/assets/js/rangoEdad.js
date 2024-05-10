@@ -9,6 +9,8 @@ if(edad>=13 && edad <=19){
 if(edad>=20 && edad <=59){
     console.log("Su rango de edad se encuentra en adulto")
 }
-if(edad>=60){
+if(edad>=60 && edad <= 100){
     console.log("Su rango de edad se encuentra en adulto mayor")
+} if (edad > 100 ) {
+    console.log('es usted inmortal?')
 }

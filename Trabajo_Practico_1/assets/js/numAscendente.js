@@ -1,6 +1,7 @@
 let num1 = parseInt(prompt("Ingrese un numero:"))
 let num2 = parseInt(prompt("Ingrese otro numero:"))
 let num3 = parseInt(prompt("Ingrese otro numero:"))
+
 if (num1>num2 && num2>num3 ){
     console.log("Orden Ascendente:")
     console.log(num3)
