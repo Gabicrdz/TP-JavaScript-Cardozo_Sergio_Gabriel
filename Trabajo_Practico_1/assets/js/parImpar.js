@@ -10,11 +10,3 @@ switch (num % 2) {
     default:
         comsole.log(`Numero no válido`) ;
 }
-
-    // let num = parseInt(prompt('ingrese el nro')); 
-
-    // if (num % 2 === 0) {
-    //     console.log('es par')
-    // } else {
-    //     console.log('es impar')
-    // }
