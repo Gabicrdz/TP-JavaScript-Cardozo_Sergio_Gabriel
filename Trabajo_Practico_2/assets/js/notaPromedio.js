@@ -13,6 +13,6 @@ if (promedio>=1 && promedio <=3){
     console.log("Nota Buena")
 }else if(promedio>=8 && promedio<=9){
     console.log("Nota Muy Buena")
-}else if(promedio>=10){
+}else if(promedio=10){
     console.log("Nota Sobresaliente")
 }
